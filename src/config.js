@@ -1,5 +1,8 @@
 require('dotenv').config()
 
+//Adding commeant for eveloper
+//This code is under developememt
+
 export const nlp_gateway_host ='hermesbetahr.workflo.ai'
 export const nlp_gateway_port = 19002
 // export const nlp_gateway_url = 'https://localhost:5010/conversation/request/v0'
