@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://localhost/users/backend/finance/",
+  "homepage": "https://hermesbetahr.workflo.ai/users/backend/finance/",
   "dependencies": {
     "@material-ui/core": "^4.9.9",
     "@material-ui/icons": "^4.9.1",
